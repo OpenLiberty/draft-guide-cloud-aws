@@ -529,7 +529,7 @@ of your container registry again.
 // Tagging images
 Tag your container image with the relevant data about your registry.
 
-[role=command]
+[role=command, subs="quotes"]
 ```
 docker tag system:2.0-SNAPSHOT [system-repository-uri]:2.0-SNAPSHOT
 ```
